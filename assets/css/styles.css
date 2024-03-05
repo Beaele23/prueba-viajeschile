@@ -22,9 +22,16 @@ nav {
     border-radius: 6px;
     overflow: hidden;
     box-shadow: opx 1px 10px rgba white;
+
 }
+
 footer a {
     font-size: 20px;
     color: white;
     text-decoration: none;
+  }
+
+  footer h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 5px;
   }
